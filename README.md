@@ -37,7 +37,7 @@ Projeto desenvolvido como requisito parcial para conclusão do módulo de Fundam
 
 ## Habilidades
 
-Neste projeto, desenvolveu-se as seguintes habilidades:
+Neste projeto, foram trabalhadas as seguintes habilidades:
 
   * Criação de formulários em HTML;
 
